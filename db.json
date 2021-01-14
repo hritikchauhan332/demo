@@ -1,13 +1,13 @@
 {"data":[
-  {"id":"1","employee_name":"Tiger Nixon","employee_salary":"320800","employee_age":"61","profile_image":""},
-  {"id":"2","employee_name":"Garrett Winters","employee_salary":"170750","employee_age":"63","profile_image":""},
-  {"id":"3","employee_name":"Ashton Cox","employee_salary":"86000","employee_age":"66","profile_image":""},
-  {"id":"4","employee_name":"Cedric Kelly","employee_salary":"433060","employee_age":"22","profile_image":""},
-  {"id":"5","employee_name":"Airi Satou","employee_salary":"162700","employee_age":"33","profile_image":""},
-  {"id":"6","employee_name":"Brielle Williamson","employee_salary":"372000","employee_age":"61","profile_image":""},
-  {"id":"7","employee_name":"Herrod Chandler","employee_salary":"137500","employee_age":"59","profile_image":""},
-  {"id":"8","employee_name":"Rhona Davidson","employee_salary":"327900","employee_age":"55","profile_image":""},
-  {"id":"9","employee_name":"Colleen Hurst","employee_salary":"205500","employee_age":"39","profile_image":""},
-  {"id":"10","employee_name":"Sonya Frost","employee_salary":"103600","employee_age":"23","profile_image":""}
+  {"id":"1001","employee_email":"tigernixon@gmail.com","employee_name":"Tiger Nixon","employee_salary":"320800","employee_age":"22", "employee_dob":"14/01/1999"},
+  {"id":"1002","employee_email":"garrettwinters@gmail.com","employee_name":"Garrett Winters","employee_salary":"170750","employee_age":"32", "employee_dob":"16/02/1989"},
+  {"id":"1003","employee_email":"asthoncox@gmail.com","employee_name":"Ashton Cox","employee_salary":"86000","employee_age":"45", "employee_dob":"21/09/1976"},
+  {"id":"1004","employee_email":"cedrickelly@gmail.com","employee_name":"Cedric Kelly","employee_salary":"433060","employee_age":"30", "employee_dob":"15/04/1991"},
+  {"id":"1005","employee_email":"airiSatou@outlook.com","employee_name":"Airi Satou","employee_salary":"162700","employee_age":"27", "employee_dob":"16/06/1994"},
+  {"id":"1006","employee_email":"briellewilliamsom@gmail.com","employee_name":"Brielle Williamson","employee_salary":"372000","employee_age":"24", "employee_dob":"15/08/1997"},
+  {"id":"1007","employee_email":"herrodchandler@outlook.com","employee_name":"Herrod Chandler","employee_salary":"137500","employee_age":"40", "employee_dob":"29/07/1981"},
+  {"id":"1008","employee_email":"rhonadavidson@outlook.com","employee_name":"Rhona Davidson","employee_salary":"327900","employee_age":"36", "employee_dob":"12/12/1977"},
+  {"id":"1009","employee_email":"colleenhurst@gmail.com","employee_name":"Colleen Hurst","employee_salary":"205500","employee_age":"39", "employee_dob":"11/05/1980"},
+  {"id":"1010","employee_email":"sonyafrost@outlook.com","employee_name":"Sonya Frost","employee_salary":"103600","employee_age":"23", "employee_dob":"26/12/1998"}
  ]}
   
